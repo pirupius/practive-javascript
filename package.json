@@ -1,0 +1,25 @@
+{
+  "name": "practice-javascript",
+  "version": "1.0.0",
+  "description": "My Javascript Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pirupius/practive-javascript.git"
+  },
+  "author": "pirupius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirupius/practive-javascript/issues"
+  },
+  "homepage": "https://github.com/pirupius/practive-javascript#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
