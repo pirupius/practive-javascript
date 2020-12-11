@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/pirupius/practive-javascript#readme",
   "dependencies": {
-    "uuid": "^3.3.3"
+    "get-stdin": "^7.0.0",
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.6"
   }
 }
